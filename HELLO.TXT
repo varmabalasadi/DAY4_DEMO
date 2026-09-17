@@ -2,3 +2,5 @@ THIS IS DAY 4
 17/09/2026
 1100
 making changes in branch_vs1 @12
+made changes in brach_gh1 from vsnode @25
+created first brach name and then pulled data
