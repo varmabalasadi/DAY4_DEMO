@@ -10,3 +10,7 @@ Course Duration
 17 09 2026
 making changes in branch_vs1 @14
 to reflect in th pull@ vslocal @15
+git 
+
+
+for merging in main and push to GH @17
