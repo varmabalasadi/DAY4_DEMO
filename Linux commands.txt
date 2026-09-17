@@ -1,0 +1,50 @@
+Linux basic commands:-
+
+
+1.) pwd	Print Working Directory – shows the current location/path in the filesystem	
+
+2.) ls	List files and directories in the current location	
+
+3.) cd	Change Directory – navigate into another directory	
+
+4.) mkdir	Make Directory – create a new folder	
+
+5.) rmdir	Remove Directory – deletes an empty directory	
+
+6.) touch	Create empty file 
+
+7.) cat	Concatenate – used to view content of a file	
+
+8.) cp	Copy files or directories	
+
+9.) mv	Move (or rename) files or directories	
+
+10.) rm	Remove files or directories	
+
+11.) man	Manual – shows the help manual for commands
+	
+12.) clear	Clears the terminal screen	
+
+13.) exit	Closes the current terminal session	
+
+14.) echo	Displays a line of text or variables	
+
+15.) whoami	Displays current username	
+
+16.) hostname	Shows the name of the system	
+
+17.) date	Displays current date and time	
+
+18.) cal	Displays calendar	cal
+
+19.) df     Check the details of the file system
+
+20.) wc     check the lines, word count, and characters in a file using different options
+
+21.) sort   sort the file content  
+
+22.) ln     create shortcuts to other files -> ln -s demo demo1
+
+23.) uname  to get basic information about OS
+
+24.) grep   to search for a specific string in an output
